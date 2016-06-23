@@ -1,0 +1,9 @@
+F:\Dropbox\Dropbox\Graph\Matrice\Matrice\bin\Debug\Matrice.exe.config
+F:\Dropbox\Dropbox\Graph\Matrice\Matrice\bin\Debug\Matrice.exe
+F:\Dropbox\Dropbox\Graph\Matrice\Matrice\bin\Debug\Matrice.pdb
+F:\Dropbox\Dropbox\Graph\Matrice\Matrice\obj\Debug\Matrice.csprojResolveAssemblyReference.cache
+F:\Dropbox\Dropbox\Graph\Matrice\Matrice\obj\Debug\Matrice.Properties.Resources.resources
+F:\Dropbox\Dropbox\Graph\Matrice\Matrice\obj\Debug\Matrice.csproj.GenerateResource.Cache
+F:\Dropbox\Dropbox\Graph\Matrice\Matrice\obj\Debug\Matrice.exe
+F:\Dropbox\Dropbox\Graph\Matrice\Matrice\obj\Debug\Matrice.pdb
+F:\Dropbox\Dropbox\Graph\Matrice\Matrice\obj\Debug\Matrice.Map.resources
